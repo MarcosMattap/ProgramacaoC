@@ -1,4 +1,4 @@
-#include <stio.h>
+#include <stdio.h>
 
 int main(){
    int Idade; //Reservando espaço para um inteiro
