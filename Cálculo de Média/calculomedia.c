@@ -10,7 +10,7 @@ int main(){
     //chamado a função
     float resultado = calcularMedia(n1, n2);
 
-    printf("A média é: %.2f\n", resultado);
+    printf("A média final é: %.2f\n", resultado);
 
     return 0;
 }
