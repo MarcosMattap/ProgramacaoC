@@ -1,0 +1,4 @@
+Nome: Marcos, Nota: 8.00
+Nome: Vinicius, Nota: 9.60
+Nome: Juliana, Nota: 9.90
+Nome: Pedro, Nota: 5.40
